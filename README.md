@@ -16,3 +16,7 @@ Report that segments and classifies customers for business decision-making.
 
 ### `fact_sales`
 `order_number` `product_key` `customer_key` `order_date` `shipping_date` `due_date` `sales_amount` `quantity` `price`
+
+
+## Analysis 
+## 1) change over time analysis : Tracks how total sales, customer count, and quantity ordered have evolved over time to identify growth trends and seasonal patterns.
