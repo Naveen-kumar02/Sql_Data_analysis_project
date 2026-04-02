@@ -24,9 +24,17 @@ Tracks how total sales, customer count, and quantity ordered have evolved over t
 
 **Output:** `order_date` `total_sales` `total_customer` `total_quantity`
 
-#### 1. Cummulative Analysis
+#### 2. Cummulative Analysis
 Measures running total of sales over the years to understand whether the business is growing or declining over time.
 
 **Output:** `order_date` `total_sales` `running_total_sales`
+
+#### 3. Performance Analysis
+Benchmarks each product's current sales against the average and previous year to identify top performers and underperformers.
+
+**Output:** `order_year` `product_name` `current_sales` `average_sales` `diff_avg` `avg_indicator` `previous_sales` `diff_sales` `previous_sales_indicator`
+
+
+
 
 
