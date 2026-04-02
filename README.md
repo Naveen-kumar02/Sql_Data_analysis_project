@@ -19,5 +19,7 @@ Report that segments and classifies customers for business decision-making.
 
 
 ## Analysis 
-## 1) change over time analysis : 
+#### 1. 📅 Change Over Time Analysis
 Tracks how total sales, customer count, and quantity ordered have evolved over time to identify growth trends and seasonal patterns.
+
+**Output:** `order_date` `total_sales` `total_customers` `total_quantity`
