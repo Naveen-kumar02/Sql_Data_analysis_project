@@ -19,4 +19,5 @@ Report that segments and classifies customers for business decision-making.
 
 
 ## Analysis 
-## 1) change over time analysis : Tracks how total sales, customer count, and quantity ordered have evolved over time to identify growth trends and seasonal patterns.
+## 1) change over time analysis : 
+Tracks how total sales, customer count, and quantity ordered have evolved over time to identify growth trends and seasonal patterns.
