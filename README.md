@@ -34,6 +34,22 @@ Benchmarks each product's current sales against the average and previous year to
 
 **Output:** `order_year` `product_name` `current_sales` `average_sales` `diff_avg` `avg_indicator` `previous_sales` `diff_sales` `previous_sales_indicator`
 
+#### 4. Part-whole Analysis
+Identifies which product categories contribute the most to overall revenue to help prioritize focus areas and improve underperforming categories.
+
+**Output:** `category` `total_sales` `overall_sales` `percentage_contribution` 
+
+#### 5. Data-Segmentation Analysis-1
+Groups products into cost ranges to understand pricing distribution and identify how many products fall within each cost segment.
+
+**Output:** `cost_segmentation` `total_product_per_range` 
+
+#### 6. Data-Segmentation Analysis-2
+Classifies customers into segments based on their spending and order history to identify new, regular and VIP customers.
+**Output:** `customer_segmentation` `total_customers` 
+
+
+
 
 
 
