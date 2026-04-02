@@ -19,7 +19,14 @@ Report that segments and classifies customers for business decision-making.
 
 
 ## Analysis 
-#### 1. 📅 Change Over Time Analysis
+#### 1. Change Over Time Analysis
 Tracks how total sales, customer count, and quantity ordered have evolved over time to identify growth trends and seasonal patterns.
 
-**Output:** `order_date` `total_sales` `total_customers` `total_quantity`
+**Output:** `order_date` `total_sales` `total_customer` `total_quantity`
+
+#### 1. Cummulative Analysis
+Measures running total of sales over the years to understand whether the business is growing or declining over time.
+
+**Output:** `order_date` `total_sales` `running_total_sales`
+
+
