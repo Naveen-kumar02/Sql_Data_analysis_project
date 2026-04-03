@@ -1,3 +1,18 @@
+/*
+script purpose: 
+---------------
+
+The below analysis are done in this scripts
+
+1) change over time analysis
+2) cummulative analysis 
+3) Moving average over year
+4) Performance Analysis
+5) Part to whole Analysis
+6) data segmentation based on cost and product 
+7) customer segmentation based on spending behaviour 
+
+*/
 
 
 -- change over time analysis 
